@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://jaybabani.com/zestreact/app",
   "dependencies": {
-    "ajv": "6.10.0",
+    "ajv": "6.12.3",
     "bootstrap": "4.3.1",
     "chart.js": "2.8.0",
     "draft-js": "0.10.x",
